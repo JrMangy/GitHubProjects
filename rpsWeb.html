@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="newRps.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="rps.css">
+    <title>Game of Death</title>
+</head>
+<body>
+    <h1 id="rps"> Welcome to Death: Rock Paper or Scissors? </h1>
+    <div style = "text-align: center;">
+        <button onclick="rock()">Rock?</button>
+        <button onclick="paper()">Paper?</button>
+        <button onclick="scissors()">Scissors?</button>
+    </div>
+    <br>
+    <div style="text-align: center;">
+        <button onclick="reset()">Reset score</button>
+    </div>
+    <p id='roundResult', class="center"></p>
+    <aside class="aside">
+        <div class="scorebox">
+            <h2>Score</h2>
+            <div class="score-num"><span id="cpuScore"></span> <br />CPU Overlord</div>
+            <div class="score-divider"><span>-</span></div> 
+            <div class="score-num"><span id="playerScore"></span> <br />You</div>
+            
+        </div>
+    </aside>
+</body>
+</html>

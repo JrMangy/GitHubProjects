@@ -1,0 +1,11 @@
+#square {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+}
+#circle {
+    height: 50px;
+    width: 50px;
+    background-color: coral;
+    border-radius: 50%;
+}

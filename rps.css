@@ -1,0 +1,86 @@
+.scorebox {
+    background-color: #efefef;
+    border: 4px solid #efefef;
+    border-radius: 10px;
+}
+.scorebox {
+    box-sizing: border-box;
+    width: 50px;
+    width: 19.5rem;
+    height: 50px;
+    height: 17.5rem;
+    padding: 5px;
+    margin: 0 auto 15px auto;
+  }
+.scorebox {
+  background-color: #efefef;
+  border: 4px solid #efefef;
+  border-radius: 10px;
+}
+span#cpuScore,
+span#playerScore {
+  font-size: 48px;
+  font-size: 4.8rem;
+  color: #00aae3;
+  font-family: "haymakerregular", Helvetica, Arial, sans-serif;
+}
+.score-divider span {
+  font-size: 40px;
+  font-size: 4rem;
+  color: #00aae3;
+  font-weight: 200;
+}
+div.score-num,
+div.score-divider {
+  font-size: 18px;
+  font-size: 1.8rem;
+  color: #777777;
+  font-weight: 600;
+  text-align: center;
+}
+html {
+  font-size: 62.5%;
+}
+.aside {
+  width: 50px;
+  width: 33rem;
+  float: right;
+}
+.scorebox {
+  box-sizing: border-box;
+  width: 50px;
+  width: 19.5rem;
+  height: 50px;
+  height: 17.5rem;
+  padding: 5px;
+  margin: 0 auto 15px auto;
+}
+.scorebox h2 {
+  margin: 15px 0 10px 10px;
+}
+.score-num,
+.score-divider {
+  float: left;
+}
+.score-num {
+  width: 40%;
+}
+.score-divider {
+  width: 20%;
+}
+.scorebox {
+  box-sizing: border-box;
+  width: 50px;
+  width: 19.5rem;
+  height: 50px;
+  height: 17.5rem;
+  padding: 5px;
+  margin: 0 auto 15px auto;
+}
+div.score-num,
+div.score-divider {
+  float: left;
+}
+div.score-num {
+  width: 40%;
+}

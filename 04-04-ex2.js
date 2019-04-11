@@ -15,6 +15,6 @@ const part5 = players.filter(player => player.position === 'RB').reduce((sum, sc
 
 // console.log(part1);
 // console.log(part2);
-// console.log(part3);
-// console.log(part4);
+//console.log(part3);
+console.log(part4);
 // console.log(part5);

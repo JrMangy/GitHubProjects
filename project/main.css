@@ -1,0 +1,10 @@
+body{
+    font-family: cursive;
+}
+
+
+#block{
+    padding: 100px;
+    background: aquamarine;
+    color: yellow;
+}
